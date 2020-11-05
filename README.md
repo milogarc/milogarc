@@ -33,7 +33,7 @@ Hi, I'm Emilio IT Engineer with more than 5 years of experience in software deve
 
 <br>
 
-Other Languages & Interest
+### Other Languages & Interest
 
 [comment]: <Languages>
 <img src="https://img.shields.io/badge/Linux%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
